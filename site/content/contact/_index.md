@@ -7,7 +7,7 @@ contact_entries:
 ---
 
 We’d love to get in touch with you and hear your ideas and
-questions. Please Contact the email below for booking purposes.
+questions. Please contact the email below for booking purposes.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
