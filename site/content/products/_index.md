@@ -9,6 +9,8 @@ intro:
     - image: /img/illustrations-coffee.svg
       text: >
         Frames
+        Spotify: https://open.spotify.com/track/1nlTdWCZjSQ8mg1Qq64pjR?si=71887e41b7b6454e
+        Apple Music: https://music.apple.com/us/album/frames/1587375587?i=1587375588
     - image: /img/Crop W.jpg
       text: >
         What's in it for Me? 
