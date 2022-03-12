@@ -12,7 +12,7 @@ intro:
     - image: /img/Crop W.jpg
       text: >
         What's in it for Me?
-    - image: /img/IN_OUT_COVER(1).JPEG
+    - image: /img/IN_OUT_COVER (1).JPEG
       text: >
         In and Out
   heading: Singles
