@@ -9,10 +9,10 @@ intro:
     - image: /img/illustrations-coffee.svg
       text: >
         Frames
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/Crop W.jpg
       text: >
         What's in it for Me?
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/In_Out_Cover(1).JPEG
       text: >
         In and Out
   heading: Singles
