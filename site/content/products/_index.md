@@ -1,5 +1,5 @@
 ---
-type: products
+type: Music
 image: /img/products-jumbotron.jpg
 heading: Singles
 description: >-
