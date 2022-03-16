@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/IMG_2300 (1).JPG"
 contact_entries:
   - heading: Email
     text: "novacancyhd@gmail.com"
