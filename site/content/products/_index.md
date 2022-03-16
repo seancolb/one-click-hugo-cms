@@ -8,7 +8,7 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Frames image: /img/Apple Music.png
+        Frames image: -image: /img/Apple Music.png
     - image: /img/Crop W.jpg
       text: >
         What's in it for Me? 
